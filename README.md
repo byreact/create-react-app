@@ -2,7 +2,7 @@
 
 <br />
 
-## 🤨 What is React ?
+## 🤔 What is React ?
 
 A JavaScript library for building user interfaces
 
