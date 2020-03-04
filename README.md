@@ -1,7 +1,19 @@
 <img src='https://github.com/byreact/create-react-app/raw/images/logo.png' border='0' alt='logo' />
 
-[Create React App](https://create-react-app.dev/docs/getting-started)
-
-Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.
-
 <br />
+
+## 🤨 What is React Js ?
+
+A JavaScript library for building user interfaces
+
+## 😚 FEATURES & BENEFITS
+
+▾ Declarative & Component-Based & Learn Once, Write Anywhere
+
+<img src='https://github.com/byreact/create-react-app/raw/images/features.png' border='0' alt='features' />
+
+## 🧑‍💻 Getting Started with React
+
+▾ Create React App
+
+<img src='https://github.com/byreact/create-react-app/raw/images/cli.png' border='0' alt='cli' />
